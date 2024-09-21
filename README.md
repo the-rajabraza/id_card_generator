@@ -44,7 +44,7 @@ Start the Flask application and access it in your web browser.
 
 ## Contact
 
-For any inquiries or issues, please reach out via email at [your.email@example.com](mailto:your.email@example.com).
+For any inquiries or issues, please reach out via email at [zubairkhatri92+github@gmail.com](mailto:zubairkhatri92+github@gmail.com).
 
 ## GitHub Repository
 
